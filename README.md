@@ -1,4 +1,4 @@
-# RDSSoc_Fall2023
+# RDSocialSci_Fall2023
 This document records Chenxi Li's coursework in Research Design for the Social Sciences.
 
 ## Table of contents
